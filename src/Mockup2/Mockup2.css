@@ -1,0 +1,20 @@
+.MainC {
+  display: flex;
+}
+
+@media screen and (max-width: 1800px) {
+  .component1{
+    margin-left: 0.5%;
+    position: relative;
+    top: 10;
+
+  }
+  .component2{
+    position: absolute;
+    top: 10;
+    right: 0;
+    margin-right: 20%;
+  }
+}
+
+  

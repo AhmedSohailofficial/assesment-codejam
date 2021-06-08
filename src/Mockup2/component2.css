@@ -1,0 +1,36 @@
+
+.Compnent2 {
+  width: 300%;
+  background-color: cadetblue;
+  height: 350px;
+  position: relative; 
+  cursor:pointer;
+  margin-right: 0%;
+  
+}
+.compHeader {
+  position: absolute;
+  height: 50px;
+  margin-top: 20%;
+  margin-left: 4%;
+  background-color: white;
+  width: 150px;
+  border:2px solid black;
+  display: block;
+  text-align: center;
+}
+.userslist{
+  background-color: white;
+  border:2px solid black;
+  width: 70%;
+  position: relative;
+  top:100px;
+  left: 22px;
+  text-align: center;
+}
+.activeuser{
+  background-color: violet;
+  height: 30px;
+  cursor: pointer;
+}
+
